@@ -1,6 +1,6 @@
 ### Hi there, I'm Leo, also known as Walker19👋:
 - 🔭 I’m currently studying Software Engineering at University of Minho.
-- ![alt text](http:https://www.pngfind.com/pngs/m/28-283068_discord-logo-discord-icon-hd-png-download.png) If you wanna reach me this is my Discord: Walker19#0010. 
+- [![NitroBadgesRoll](https://emoji.gg/assets/emoji/3190-nitrobadgesroll.gif)](https://emoji.gg/emoji/3190-nitrobadgesroll)If you wanna reach me this is my Discord: Walker19#0010. 
 - ⚡ Fun fact: StarWars is one of the best things in this World!
 
 
