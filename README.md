@@ -1,5 +1,5 @@
 ### Hi there, I'm Leo, also known as Walker19👋:
-- [![PC](https://emoji.gg/assets/emoji/5028-pc.png)](https://emoji.gg/emoji/5028-pc) I’m currently studying Software Engineering at University of Minho.- 
+- [![PC](https://emoji.gg/assets/emoji/5028-pc.png)](https://emoji.gg/emoji/5028-pc)I’m currently studying Software Engineering at University of Minho.- 
 - [![heart_boost](https://emoji.gg/assets/emoji/2184-heart-boost.png)](https://emoji.gg/emoji/2184-heart-boost) ---> If you wanna reach me this is my Discord: Walker19#0010. 
 - ⚡ Fun fact: StarWars is one of the best things in this World!
 
