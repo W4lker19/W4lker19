@@ -1,4 +1,5 @@
-### Hi there, I'm Leo, also known as Walker19👋:
+### Hi there, I'm Leo, also known as Walker19 <a href="https://emoji.gg/emoji/7715-hello"><img src="https://emoji.gg/assets/emoji/7715-hello.png" width="32px" height="32px" alt="Hello"></a>:
+
 <a href="https://emoji.gg/emoji/6037_spottyforpc"><img src="https://emoji.gg/assets/emoji/6037_spottyforpc.png" width="32px" height="32px" alt="spottyforpc"></a> I’m currently studying Software Engineering at University of Minho.
 
 <a href="https://emoji.gg/emoji/3190-nitrobadgesroll"><img src="https://emoji.gg/assets/emoji/3190-nitrobadgesroll.gif" width="32px" height="32px" alt="NitroBadgesRoll"></a> If you wanna reach me this is my Discord: Walker19#0010. 
