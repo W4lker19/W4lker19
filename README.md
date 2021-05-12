@@ -8,6 +8,7 @@
 
 <a href="https://emoji.gg/emoji/9756_AppJedi"><img src="https://emoji.gg/assets/emoji/9756_AppJedi.gif" width="32px" height="32px" alt="AppJedi"></a> Fun fact: StarWars is one of the best things in this World! <a href="https://emoji.gg/emoji/2333-baby-yoda-force"><img src="https://emoji.gg/assets/emoji/2333-baby-yoda-force.png" width="32px" height="32px" alt="baby_yoda_force"></a>
 
+<a href="https://emoji.gg/emoji/5629-catjam-cry"><img src="https://emoji.gg/assets/emoji/5629-catjam-cry.gif" width="64px" height="64px" alt="catjam_cry"></a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonardo1924&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo1924&layout=compact&theme=gotham)
 
