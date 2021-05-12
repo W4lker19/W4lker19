@@ -1,4 +1,6 @@
-### Hello There, <a href="https://emoji.gg/emoji/7715-hello"><img src="https://emoji.gg/assets/emoji/7715-hello.png" width="32px" height="32px" alt="Hello"></a>, I'm Leo !
+### Hello There! <a href="https://emoji.gg/emoji/7715-hello"><img src="https://emoji.gg/assets/emoji/7715-hello.png" width="32px" height="32px" alt="Hello"></a>
+
+### I'm Leo!
 
 <a href="https://emoji.gg/emoji/5629-catjam-cry"><img src="https://emoji.gg/assets/emoji/5629-catjam-cry.gif" width="32px" height="32px" alt="catjam_cry"></a>I’m currently studying Software Engineering at University of Minho.
 
