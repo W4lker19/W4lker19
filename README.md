@@ -2,7 +2,7 @@
 
 ### I'm Leo!
 
-<h4 align="left"> <img src=[https://ibb.co/xhnnykL](https://drive.google.com/file/d/1PUHVu88YAMSeLcjNJouwt_K23tnovjFR/view?usp=view)/> I’m currently studying Software Engineering at University of Minho. </h4>
+<h4 align="left"> <img src=[https://ibb.co/xhnnykL](https://drive.google.com/file/d/1PUHVu88YAMSeLcjNJouwt_K23tnovjFR/view)/> I’m currently studying Software Engineering at University of Minho. </h4>
 
 ![Kakeru-Naruse-1021x1024](https://user-images.githubusercontent.com/62023102/169046747-b4a2bb88-aa8d-41e3-9c7e-bb54878bb9e1.jpg)
 
