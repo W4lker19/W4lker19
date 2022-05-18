@@ -10,7 +10,7 @@ I’m currently studying Software Engineering at University of Minho.
 
 If you wanna reach me this is my Discord: Walker19#0010.
 
-<h3 align="left">Now Playing:</h3> <a href="https://www.flaticon.com/br/icones-gratis/spotify" title="spotify ícones">Spotify ícones criados por Pixel perfect - Flaticon</a>
+<h3 align="left">Now Playing <a href="https://www.flaticon.com/br/icones-gratis/spotify" title="spotify ícones"></a>:</h3>
 
 [![Spotify](https://novatorem-blue-xi.vercel.app/api/spotify)](https://open.spotify.com/user/melwwt1dl1y0m19x8k1c44eim)
 
