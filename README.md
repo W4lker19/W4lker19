@@ -2,6 +2,7 @@
 
 ### I'm Leo!
 
+![Brasao_UMinho rezise](https://user-images.githubusercontent.com/62023102/169046374-7dbc681b-d85c-4f71-a4eb-6371c6449728.jpg)
 I’m currently studying Software Engineering at University of Minho.
 
 If you wanna reach me this is my Discord: Walker19#0010.
