@@ -6,6 +6,8 @@
 
 I’m currently studying Software Engineering at University of Minho.
 
+![Kakeru-Naruse-1021x1024](https://user-images.githubusercontent.com/62023102/169046747-b4a2bb88-aa8d-41e3-9c7e-bb54878bb9e1.jpg)
+
 If you wanna reach me this is my Discord: Walker19#0010.
 
 <h3 align="left">Now Playing:</h3>
