@@ -13,6 +13,10 @@
   </a>
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=Leonardo1924&style=flat-square&color=blue" alt=""/>
+
+
+
 ### Hello There! 
 ### I'm Leo!
 <h4 align="left"> I’m currently studying Software Engineering at University of Minho.</h4>
