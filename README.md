@@ -11,6 +11,8 @@
   <a href="leonardo1924@protonmail.com">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Proton Badge"/>
   </a>
+  <a href="https://open.spotify.com/user/melwwt1dl1y0m19x8k1c44eim?si=21e5df35ce034206&nd=1">
+    <img src="https://img.shields.io/badge/Spotify-1DB954.svg?style=for-the-badge&logo=Spotify&logoColor=white" alt="Spotify Badge"/>
 </div>
 <div id="counter" align="center">
 <img src="https://komarev.com/ghpvc/?username=Leonardo1924&style=flat-square&color=blue" alt="counter badge"/>
