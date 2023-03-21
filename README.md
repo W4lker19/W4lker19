@@ -63,8 +63,13 @@
 @@(___.'     '.___)                                    @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 ```
+<!--line-->
+<div id="line">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</div>
+  
 <div id="terminal" align="center">
-<img src="assets/img/terminal.gif" alt="profilepic" width="100%">
+<img src="assets/img/terminal.gif" alt="profilepic" width="100%" height0"30%">
 </div>
   
 </div>
