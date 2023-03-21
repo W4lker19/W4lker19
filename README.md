@@ -73,15 +73,15 @@
 
 <!--ABOUT-->
 <div id="about" align="center">
-<img src="assets/img/profile.png" alt="profilepic">
+<img src="assets/img/play.gif" alt="profilepic">
 <h2> ABOUT ME </h2>
 <h4> I’m currently studying Software Engineering at </h4>
-<img src="/assets/img/um.png" alt="um" width="80" height="40" />
+<img src="assets/img/um.png" alt="um" width="80" height="40" />
 <div id="Uni" align="center">
 <b>University of Minho.</b>
 </div>
 <h4> I’m working as a Junior System Administrator at </h4> 
-<img src="/assets/img/tux.svg" alt="tux" width="40" height="40" />
+<img src="assets/img/tux.svg" alt="tux" width="40" height="40" />
 <div id="Work" align="center">
 <b> Eurotux Informática,Sa.</b>
 <h3></h3>
