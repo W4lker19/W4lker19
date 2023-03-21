@@ -26,7 +26,7 @@
 
 <!--intro-->
 <div id = "intro "align="center">
-  <h1> Hello There!</h1>
+#Hello There!
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot.gif" height="50" width="50">
 </div>
 
