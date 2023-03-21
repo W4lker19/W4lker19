@@ -14,7 +14,7 @@
    <a href="https://open.spotify.com/user/melwwt1dl1y0m19x8k1c44eim?si=21e5df35ce034206&nd=1">
     <img src="https://img.shields.io/badge/Spotify-1DB954.svg?style=for-the-badge&logo=Spotify&logoColor=white" alt="Spotify Badge"/>
   </a>
-  <a href="leonardo1924@protonmail.com">
+  <a mailto:"leonardo1924@protonmail.com">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Proton Badge"/>
   </a>
    <a href="Walker19#0010">
@@ -73,15 +73,15 @@
 
 <!--ABOUT-->
 <div id="about" align="center">
-<img src="https://github.com/Leonardo1924/assets/blob/main/img/profile.png" alt="profilepic">
+<img src="assets/img/profile.png" alt="profilepic">
 <h2> ABOUT ME </h2>
 <h4> I’m currently studying Software Engineering at </h4>
-<img src="https://github.com/Leonardo1924/assets/blob/main/img/um.png" alt="um" width="80" height="40" />
+<img src="/assets/img/um.png" alt="um" width="80" height="40" />
 <div id="Uni" align="center">
 <b>University of Minho.</b>
 </div>
 <h4> I’m working as a Junior System Administrator at </h4> 
-<img src="https://github.com/Leonardo1924/assets/blob/main/img/tux.svg" alt="tux" width="40" height="40" />
+<img src="/assets/img/tux.svg" alt="tux" width="40" height="40" />
 <div id="Work" align="center">
 <b> Eurotux Informática,Sa.</b>
 <h3></h3>
@@ -117,7 +117,7 @@
 </div>
 
 <div id="spotify" align="center">
-<img src="https://github.com/Leonardo1924/assets/blob/main/img/play.gif" width="58%"/>
+<img src="assets/img/play.gif" width="58%"/>
   
 [![Spotify](https://novatorem-blue-xi.vercel.app/api/spotify)](https://open.spotify.com/user/melwwt1dl1y0m19x8k1c44eim)
 </div>
