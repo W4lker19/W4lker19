@@ -85,6 +85,9 @@
 <div id="Work" align="center">
 <b> Eurotux Informática,Sa.</b>
 </div>
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Leonardo1924&theme=dark&background=000000)](https://git.io/streak-stats)
+
 </div>
 
 <!--line-->
