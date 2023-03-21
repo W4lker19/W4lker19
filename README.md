@@ -17,7 +17,7 @@
   <a href="mailto: leonardo1924@protonmail.com" Send Email>
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Spotify Badge"/>
   </a>
-   <a href="Walker19#0010">
+   <a href="[Walker19#0010](https://discord.com/users/624603785041281044)">
     <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord Badge"/>
   </a>
 </div>
