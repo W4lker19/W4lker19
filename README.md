@@ -73,7 +73,7 @@
 
 <!--ABOUT-->
 <div id="about" align="center">
-<img src="assets/img/play.gif" alt="profilepic">
+<img src="assets/img/profile.png" alt="profilepic">
 <h2> ABOUT ME </h2>
 <h4> I’m currently studying Software Engineering at </h4>
 <img src="assets/img/um.png" alt="um" width="80" height="40" />
