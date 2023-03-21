@@ -81,6 +81,11 @@
 <img src="https://github.com/Leonardo1924/assets/blob/main/img/tux.png" alt="tux" width="40" height="40" />
 </div>
 
+<!--line-->
+<div id="line">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</div>
+
 <!--tools-->
 <div id="skills" align="center">
                                                                                                 
@@ -95,8 +100,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 </div>
 
+<!--line-->
+<div id="line">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</div>
+
+<div id = "spotify" align="center">
 <h3 align="left">Now Playing <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-spotify-a-swedish-audio-streaming-platform-that-provides-drm-protected-logo-shadow-tal-revivo.png"/> :</h3>
 
 [![Spotify](https://novatorem-blue-xi.vercel.app/api/spotify)](https://open.spotify.com/user/melwwt1dl1y0m19x8k1c44eim)
 
+</div>
 
