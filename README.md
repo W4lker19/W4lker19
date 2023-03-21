@@ -1,6 +1,9 @@
+<!--cat-->
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300"/>
 </div>
+
+<!--badges-->
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/leonardo-ara%C3%BAjo-freitas-734732228/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -15,8 +18,14 @@
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Proton Badge"/>
   </a>
 </div>
+
+<!--counter-->
 <div id="counter" align="center">
 <img src="https://komarev.com/ghpvc/?username=Leonardo1924&style=flat-square&color=green" alt="counter badge"/>
+</div>
+
+<div id="line">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
 
