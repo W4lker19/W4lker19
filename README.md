@@ -2,7 +2,8 @@
 
 ### I'm Leo!
 
-<div>
+<div>![Wallpaper-Natal](https://user-images.githubusercontent.com/62023102/226577670-9ab8dc9f-e0fb-4a21-aa44-a3db6e24947c.png)
+
 <h4 align="left"> I’m currently studying Software Engineering at University of Minho.</h4>
 </div>
 
