@@ -64,7 +64,7 @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 ```
 <div id="terminal" align="center">
-<img src="assets/img/terminal.gif" alt="profilepic" width="50%">
+<img src="assets/img/terminal.gif" alt="profilepic" width="100%">
 </div>
   
 </div>
