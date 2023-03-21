@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://dribbble.com/shots/14157256-Hacker-Loop?utm_source=Clipboard_Shot&utm_campaign=markgrossi&utm_content=Hacker%20Loop&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=markgrossi&utm_content=Hacker%20Loop&utm_medium=Social_Share)" width="100"/>
+  <img src="https://dribbble.com/shots/14157256-Hacker-Loop?utm_source=Clipboard_Shot&utm_campaign=markgrossi&utm_content=Hacker%20Loop&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=markgrossi&utm_content=Hacker%20Loop&utm_medium=Social_Share" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/leonardo-ara%C3%BAjo-freitas-734732228/">
