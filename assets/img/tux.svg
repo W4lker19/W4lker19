@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="46.053711mm"
+   height="45.23175mm"
+   viewBox="0 0 46.053711 45.23175"
+   version="1.1"
+   id="svg597"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs594">
+    <radialGradient
+       fx="0"
+       fy="0"
+       cx="0"
+       cy="0"
+       r="1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(88.77105,0,0,-88.77105,430.07275,332.99802)"
+       spreadMethod="pad"
+       id="radialGradient30">
+      <stop
+         style="stop-opacity:1;stop-color:#e3182c"
+         offset="0"
+         id="stop24" />
+      <stop
+         style="stop-opacity:1;stop-color:#e3182c"
+         offset="0.675781"
+         id="stop26" />
+      <stop
+         style="stop-opacity:1;stop-color:#550709"
+         offset="1"
+         id="stop28" />
+    </radialGradient>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-87.76935,-111.66252)">
+    <g
+       id="g12"
+       transform="matrix(0.35277777,0,0,-0.35277777,-42.76548,254.46625)">
+      <g
+         id="g14">
+        <g
+           id="g20">
+          <g
+             id="g22">
+            <path
+               d="m 370.02,339.532 c 0,-2.698 0.164,-5.358 0.481,-7.969 v 0 c 3.387,3.238 13.011,36.928 42.532,37.985 v 0 c 8.225,0.294 10.87,-3.074 24.131,-3.074 v 0 c 13.263,0 24.134,3.353 29.165,1.117 v 0 c 5.031,-2.235 5.311,-3.073 5.311,-3.073 v 0 c 0,0 -32.507,3.384 -45.213,-30.624 v 0 c 0,0 27.479,-12.702 26.188,-45.22 v 0 l -0.023,-12.092 c 27.654,7.58 47.974,32.892 47.974,62.95 v 0 c 0,36.047 -29.222,65.266 -65.273,65.266 v 0 c -36.049,0 -65.273,-29.219 -65.273,-65.266"
+               style="fill:url(#radialGradient30);stroke:none"
+               id="path32" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
