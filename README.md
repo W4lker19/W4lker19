@@ -112,7 +112,7 @@
 </div>
 
 <div id = "spotify" align="center">
-<h3 align="center">Now Playing <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-spotify-a-swedish-audio-streaming-platform-that-provides-drm-protected-logo-shadow-tal-revivo.png"/> :</h3>
+<h3 align="center">Now Playing <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-spotify-a-swedish-audio-streaming-platform-that-provides-drm-protected-logo-shadow-tal-revivo.png"/></h3>
 
 [![Spotify](https://novatorem-blue-xi.vercel.app/api/spotify)](https://open.spotify.com/user/melwwt1dl1y0m19x8k1c44eim)
 
