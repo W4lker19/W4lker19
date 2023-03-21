@@ -12,8 +12,9 @@
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Proton Badge"/>
   </a>
 </div>
-
+<div id="counter" align="center">
 <img src="https://komarev.com/ghpvc/?username=Leonardo1924&style=flat-square&color=blue" alt=""/>
+</div>
 
 
 
