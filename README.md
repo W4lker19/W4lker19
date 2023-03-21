@@ -111,11 +111,9 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </div>
 
-<div id = "spotify" align="center">
-<img src="https://github.com/Leonardo1924/assets/blob/main/img/play.gif" width="50%">
-
+<div id="spotify" align="center">
+<img src="https://github.com/Leonardo1924/assets/blob/main/img/play.gif" width="60%">
 [![Spotify](https://novatorem-blue-xi.vercel.app/api/spotify)](https://open.spotify.com/user/melwwt1dl1y0m19x8k1c44eim)
-
 </div>
 
 <!--🦶FOOTER--> 
