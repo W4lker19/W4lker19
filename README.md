@@ -63,6 +63,9 @@
 @@(___.'     '.___)                                    @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 ```
+<div id="terminal" align="center">
+<img src="assets/img/terminal.gif" alt="profilepic" width="50%">
+</div>
   
 </div>
 
