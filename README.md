@@ -69,7 +69,7 @@
 </div>
   
 <div id="terminal" align="center">
-<img src="assets/img/terminal.gif" alt="terminal" width="100%" height0"30%">
+<img src="assets/img/train.gif" alt="terminal" width="100%" height0"30%">
 </div>
   
 </div>
