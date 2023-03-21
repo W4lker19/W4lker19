@@ -84,7 +84,7 @@
 <img src="https://github.com/Leonardo1924/assets/blob/main/img/tux.svg" alt="tux" width="40" height="40" />
 <div id="Work" align="center">
 <b> Eurotux Informática,Sa.</b>
-
+<h3></h3>
 </div>
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Leonardo1924&theme=dark&background=000000)](https://git.io/streak-stats)
