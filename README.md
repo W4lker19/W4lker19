@@ -79,12 +79,6 @@
 <h4 align="left"> I’m working as a Junior System Administrator at Eurotux.SA .</h4>
 </div>
 
-![profile](https://github.com/Leonardo1924/assets/blob/main/img/profile.png "profilepic")
-
-<h3 align="left">Now Playing <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-spotify-a-swedish-audio-streaming-platform-that-provides-drm-protected-logo-shadow-tal-revivo.png"/> :</h3>
-
-[![Spotify](https://novatorem-blue-xi.vercel.app/api/spotify)](https://open.spotify.com/user/melwwt1dl1y0m19x8k1c44eim)
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/tree/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -97,5 +91,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCODE" alt="VSCODE" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 </div>
+
+<h3 align="left">Now Playing <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-spotify-a-swedish-audio-streaming-platform-that-provides-drm-protected-logo-shadow-tal-revivo.png"/> :</h3>
+
+[![Spotify](https://novatorem-blue-xi.vercel.app/api/spotify)](https://open.spotify.com/user/melwwt1dl1y0m19x8k1c44eim)
 
 
