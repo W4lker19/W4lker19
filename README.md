@@ -26,7 +26,7 @@
 
 <!--intro-->
 <div id = "intro "align="center">
-<h2> Hello There!
+<h2> Hello There! I'm Leo!
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot.gif" height="50" width="50">
 </h2>
 </div>
@@ -68,8 +68,6 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </div>
 
-
-### I'm Leo!
 <h4 align="left"> I’m currently studying Software Engineering at University of Minho.</h4>
 </div>
 
