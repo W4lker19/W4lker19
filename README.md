@@ -24,13 +24,18 @@
 <img src="https://komarev.com/ghpvc/?username=Leonardo1924&style=flat-square&color=green" alt="counter badge"/>
 </div>
 
+<!--intro-->
+<div id ="intro" align="center">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
+### Hello There!
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
+
+<!--line-->
 <div id="line">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </div>
 
 
-
-### Hello There! 
 ### I'm Leo!
 <h4 align="left"> I’m currently studying Software Engineering at University of Minho.</h4>
 </div>
