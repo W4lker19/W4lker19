@@ -25,10 +25,10 @@
 </div>
 
 <!--intro-->
-<h1 align="center">
+<div id = "intro "align="center">
   Hello There!
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
-</h1>
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/hd/parrot.gif" height="50" width="50">
+</div>
 
 <!--line-->
 <div id="line">
