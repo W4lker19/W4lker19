@@ -4,7 +4,7 @@
 <h4 align="left"> I’m currently studying Software Engineering at University of Minho.</h4>
 </div>
 
-![profile](/assets/img/profile.png "profilepic")
+![profile](assets/img/profile.png "profilepic")
 <div> If you wanna reach me this is my Discord: Walker19#0010.</div></h4>
 
 <h3 align="left">Now Playing <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-spotify-a-swedish-audio-streaming-platform-that-provides-drm-protected-logo-shadow-tal-revivo.png"/> :</h3>
