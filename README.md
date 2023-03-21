@@ -14,9 +14,8 @@
    <a href="https://open.spotify.com/user/melwwt1dl1y0m19x8k1c44eim?si=21e5df35ce034206&nd=1">
     <img src="https://img.shields.io/badge/Spotify-1DB954.svg?style=for-the-badge&logo=Spotify&logoColor=white" alt="Spotify Badge"/>
   </a>
-  <a
+  <a (mailto:"leonardo1924@protonmail.com)
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Proton Badge"/>
-    (mailto:"leonardo1924@protonmail.com)
   </a>
    <a href="Walker19#0010">
     <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord Badge"/>
