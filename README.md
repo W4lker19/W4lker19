@@ -77,10 +77,14 @@
 <h2> ABOUT ME </h2>
 <h4> I’m currently studying Software Engineering at </h4>
 <img src="https://github.com/Leonardo1924/assets/blob/main/img/um.png" alt="um" width="80" height="40" />
-  <b>University of Minho.</b>
+<div id="Uni" align="center">
+<b>University of Minho.</b>
+</div>
 <h4> I’m working as a Junior System Administrator at </h4> 
 <img src="https://github.com/Leonardo1924/assets/blob/main/img/tux.svg" alt="tux" width="40" height="40" />
-  <b> Eurotux Informática,Sa.</b>
+<div id="Work" align="center">
+<b> Eurotux Informática,Sa.</b>
+</div>
 </div>
 
 <!--line-->
