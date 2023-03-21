@@ -2,9 +2,11 @@
 
 ### I'm Leo!
 
+<div>
 <h4 align="left"> <img src=https://github.com/Leonardo1924/Leonardo1924/blob/main/imgs/brasao_uminho_XBA_icon.ico/> <div> I’m currently studying Software Engineering at University of Minho.</div></h4>
+</div>
 
-<h4 align="left"> <img src=https://github.com/Leonardo1924/Leonardo1924/blob/main/imgs/kakeru_naruse_1021x1024_9sw_icon.ico/> <div> If you wanna reach me this is my Discord: Walker19#0010.</div></h4>
+<h4 align="left"> <img src=/> <div> If you wanna reach me this is my Discord: Walker19#0010.</div></h4>
 
 <h3 align="left">Now Playing <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-spotify-a-swedish-audio-streaming-platform-that-provides-drm-protected-logo-shadow-tal-revivo.png"/> :</h3>
 
