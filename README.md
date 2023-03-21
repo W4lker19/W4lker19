@@ -75,7 +75,7 @@
 <div id="about" align="center">
 <img src="https://github.com/Leonardo1924/assets/blob/main/img/profile.png" alt="profilepic">
 <h2> ABOUT ME </h2>
-<h4> I’m currently studying Software Engineering at <img src="https://github.com/Leonardo1924/assets/blob/main/img/um.svg" alt="um" width="40" height="40" /> **University of Minho**.
+<h4> I’m currently studying Software Engineering at <img src="https://github.com/Leonardo1924/assets/blob/main/img/um.png" alt="um" width="40" height="40" /> **University of Minho**.
 </h4>
 <h4> I’m working as a Junior System Administrator at <img src="https://github.com/Leonardo1924/assets/blob/main/img/tux.svg" alt="tux" width="40" height="40" /> **Eurotux Informática,Sa**.
 </h4>
