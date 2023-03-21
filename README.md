@@ -75,8 +75,8 @@
 <div id="about" align="center">
 <img src="https://github.com/Leonardo1924/assets/blob/main/img/profile.png" alt="profilepic">
 <h2> ABOUT ME </h2>
-<h4 align="left"> I’m currently studying Software Engineering at University of Minho.</h4>
-<h4 align="left"> I’m working as a Junior System Administrator at Eurotux.SA .</h4>
+<h4> I’m currently studying Software Engineering at University of Minho.</h4>
+<h4> I’m working as a Junior System Administrator at Eurotux.SA .</h4>
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :
