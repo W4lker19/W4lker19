@@ -94,7 +94,7 @@
 
 <!--tools-->
 <div id="skills" align="center">
-                                                                                                
+  :hammer_and_wrench: <h2> TOOLS </h2>                                                                                         
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" title="Ilustrator" alt="Ilustrator" width="40" height="40"/>&nbsp;
@@ -117,4 +117,7 @@
 [![Spotify](https://novatorem-blue-xi.vercel.app/api/spotify)](https://open.spotify.com/user/melwwt1dl1y0m19x8k1c44eim)
 
 </div>
+
+<!--🦶FOOTER--> 
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 
