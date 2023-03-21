@@ -78,8 +78,12 @@
 <h4> I’m currently studying Software Engineering at University of Minho.</h4>
 <h4> I’m working as a Junior System Administrator at Eurotux.SA.
 </h4>
-<img src="https://github.com/Leonardo1924/assets/blob/main/img/tux.png" alt="tux" width="40" height="40 />
-  
+<img src="https://github.com/Leonardo1924/assets/blob/main/img/tux.png" alt="tux" width="40" height="40" />
+</div>
+
+<!--tools-->
+<div id="skills" align="center">
+                                                                                                
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" title="Ilustrator" alt="Ilustrator" width="40" height="40"/>&nbsp;
