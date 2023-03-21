@@ -3,7 +3,7 @@
 ### I'm Leo!
 
 <div>
-<h4 align="left"> <img src=https://github.com/Leonardo1924/Leonardo1924/blob/main/imgs/brasao_uminho_XBA_icon.ico/> <div> I’m currently studying Software Engineering at University of Minho.</div></h4>
+<h4 align="left"> I’m currently studying Software Engineering at University of Minho.</h4>
 </div>
 
 <h4 align="left"> <img src=/> <div> If you wanna reach me this is my Discord: Walker19#0010.</div></h4>
