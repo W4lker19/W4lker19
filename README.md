@@ -76,7 +76,9 @@
 <img src="https://github.com/Leonardo1924/assets/blob/main/img/profile.png" alt="profilepic">
 <h2> ABOUT ME </h2>
 <h4> I’m currently studying Software Engineering at University of Minho.</h4>
-<h4> I’m working as a Junior System Administrator at Eurotux.SA .</h4>
+<h4> I’m working as a Junior System Administrator at Eurotux.SA.
+<img src="https://github.com/Leonardo1924/assets/blob/main/img/tux.png" alt="tux">
+</h4> 
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
