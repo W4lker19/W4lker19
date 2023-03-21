@@ -1,5 +1,7 @@
-### Hello There! <a href="https://emoji.gg/emoji/7715-hello"><img src="https://emoji.gg/assets/emoji/7715-hello.png" width="32px" height="32px" alt="Hello"></a>
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+### Hello There! 
 ### I'm Leo!
 <h4 align="left"> I’m currently studying Software Engineering at University of Minho.</h4>
 </div>
