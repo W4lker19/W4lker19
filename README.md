@@ -100,7 +100,7 @@
 </div>
 
 <div id="spotify" align="center">
-<img src="assets/img/play.gif" width="58%"/>
+<img src="assets/img/textanim-sxhJ6.gif" width="58%"/>
   
 [![Spotify](https://novatorem-blue-xi.vercel.app/api/spotify)](https://open.spotify.com/user/melwwt1dl1y0m19x8k1c44eim)
 </div>
