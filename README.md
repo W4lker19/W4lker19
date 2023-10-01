@@ -63,12 +63,6 @@
 <div id="Uni" align="center">
 <b>University of Minho.</b>
 </div>
-<h4> I’m working as a Junior System Administrator at </h4> 
-<img src="assets/img/tux.svg" alt="tux" width="40" height="40" />
-<div id="Work" align="center">
-<b> Eurotux Informática,Sa.</b>
-<h3></h3>
-</div>
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Leonardo1924&theme=dark&background=000000)](https://git.io/streak-stats)
 
