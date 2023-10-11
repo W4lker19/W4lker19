@@ -24,7 +24,7 @@
 
 <!--counter-->
 <div id="counter" align="center">
-<img src="https://komarev.com/ghpvc/?username=Leonardo1924&style=flat-square&color=green" alt="counter badge"/>
+<img src="https://komarev.com/ghpvc/?username=Leonardo1924&color=green" alt="counter badge"/>
 </div>
 
 ![](https://hit.yhype.me/github/profile?user_id=62023102)
