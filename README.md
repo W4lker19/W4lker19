@@ -24,7 +24,9 @@
 
 <!--counter-->
 <div id="counter" align="center">
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+<a>
+    <img src="https://komarev.com/ghpvc/?username=Leonardo1924&color=green">
+</a>
 </div>
 
 ![](https://hit.yhype.me/github/profile?user_id=62023102)
