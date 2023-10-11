@@ -22,13 +22,6 @@
   </a>
 </div>
 
-<!--counter-->
-<div id="counter" align="center">
-<a>
-    <img src="https://komarev.com/ghpvc/?username=Leonardo1924&color=green">
-</a>
-</div>
-
 ![](https://hit.yhype.me/github/profile?user_id=62023102)
 
 <!--intro-->
