@@ -58,11 +58,12 @@
 <div id="Uni" align="center">
 <b>University of Minho.</b>
 <h4> Finished in 2024 with an average grade of 13 </h4>
+<h4> My Current OS is Arch Linux</h4>
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" title="OS" alt="ARCH" width="40" height="40"/>&nbsp;<!--Done-->
 </div>
 <p>
   
 </p>
-
 <div>
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Leonardo1924&theme=dark&background=000000)](https://git.io/streak-stats)
@@ -77,15 +78,17 @@
 <!--tools-->
 <div id="skills" align="center">
   <h3> :hammer_and_wrench: Languages and Tools </h3>                                                                          
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" title="Ilustrator" alt="Ilustrator" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg"  title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCODE" alt="VSCODE" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" title="Python" alt="Python" width="40" height="40"/>&nbsp;<!--Done-->
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" title="Java" alt="Java" width="40" height="40"/>&nbsp;<!--Done-->
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" title="C" alt="C Lang" width="40" height="40"/>&nbsp;<!--Done-->
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" title="Ilustrator" alt="Ilustrator" width="40" height="40"/>&nbsp;<!--Done-->
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="Github" alt="Github" width="40" height="40"/>&nbsp;<!--Done-->
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" title="Slack" alt="Slack" width="40" height="40"/>&nbsp; <!--Done-->
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"  title="Trello" alt="Trello" width="40" height="40"/>&nbsp;<!--Done-->
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" title="VSCODE" alt="VSCODE" width="40" height="40"/>&nbsp;<!--Done-->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;<!--Done-->
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" title="Python" alt="Python" width="40" height="40"/>&nbsp;<!--Done-->
+  <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" title="Hackthebox" alt="box" width="40" height="40"/>&nbsp;<!--Done-->
   <h3></h3>
 </div>
 
