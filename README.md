@@ -51,7 +51,6 @@
 <p>
   
 </p>
-
 <!--line-->
 <div id="line">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
@@ -62,6 +61,9 @@
   <h3> 
     :hammer_and_wrench: Languages and Tools 
   </h3>
+  <p>
+  
+  </p>
 </div>
 <div id="skills_badges" align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" title="Python" alt="Python"/>&nbsp;<!--Done-->
