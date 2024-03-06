@@ -57,7 +57,7 @@
 <img src="assets/img/um.png" alt="um" width="80" height="40" />
 <div id="Uni" align="center">
 <b>University of Minho.</b>
-<h4> Finished in 2024 with an average of 13 grade of 13 </h4>
+<h4> Finished in 2024 with an average grade of 13 </h4>
 </div>
 <p>
   
