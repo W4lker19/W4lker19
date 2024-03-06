@@ -61,11 +61,9 @@
 <div id="skills" align="center">
   <h3> 
     :hammer_and_wrench: Languages and Tools 
-    
   </h3>
-  <p>
-    
-  </p>
+</div>
+<div id="skills_badges" align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" title="Python" alt="Python"/>&nbsp;<!--Done-->
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" title="Java" alt="Java"/>&nbsp;<!--Done-->
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" title=" " alt="C Lang"/>&nbsp;<!--Done-->
