@@ -36,19 +36,6 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </div>
 
-<div align="center">
-  
-<div id="terminal" align="center">
-<img src="assets/img/train.gif" alt="terminal" width="100%" height0"30%">
-</div>
-  
-</div>
-
-<!--line-->
-<div id="line">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-</div>
-
 <!--ABOUT-->
 <div id="about" align="center">
 <img src="assets/img/profile.png" alt="profilepic" width="30%" height="30%">
@@ -99,6 +86,11 @@
 [![Spotify](https://novatorem-blue-xi.vercel.app/api/spotify)](https://open.spotify.com/user/melwwt1dl1y0m19x8k1c44eim)
 </div>
 
-<!--🦶FOOTER--> 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+<div align="center">
+  
+<div id="terminal" align="center">
+<img src="assets/img/train.gif" alt="terminal" width="100%" height="30%">
+</div>
+  
+</div>
 
