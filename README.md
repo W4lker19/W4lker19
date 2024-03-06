@@ -53,10 +53,11 @@
 <div id="about" align="center">
 <img src="assets/img/profile.png" alt="profilepic" width="30%" height="30%">
 <h2> ABOUT ME </h2>
-<h4> I’m currently studying Software Engineering at </h4>
+<h4> I studied Software Engineering at </h4>
 <img src="assets/img/um.png" alt="um" width="80" height="40" />
 <div id="Uni" align="center">
 <b>University of Minho.</b>
+<h4> Finished in 2024 with an average of 13 grade of 13 </h4>
 </div>
 <p>
   
