@@ -75,7 +75,7 @@
   <h3> :hammer_and_wrench: Languages and Tools </h3>                                                                          
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" title="Python" alt="Python" width="70" height="40"/>&nbsp;<!--Done-->
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" title="Java" alt="Java" width="70" height="40"/>&nbsp;<!--Done-->
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" title="C" alt="C Lang" width="70" height="40"/>&nbsp;<!--Done-->
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" title=" " alt="C Lang" width="70" height="40"/>&nbsp;<!--Done-->
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" title="Ilustrator" alt="Ilustrator" width="80" height="40"/>&nbsp;<!--Done-->
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="Github" alt="Github" width="70" height="40"/>&nbsp;<!--Done-->
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" title="Slack" alt="Slack" width="70" height="40"/>&nbsp; <!--Done-->
