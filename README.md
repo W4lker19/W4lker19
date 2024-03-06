@@ -24,16 +24,16 @@
 
 ![](https://hit.yhype.me/github/profile?user_id=62023102)
 
+<!--line-->
+<div id="line">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</div>
+
 <!--intro-->
 <div id = "intro "align="center">
 <h2> Hello There! I'm Leo!
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot.gif" height="50" width="50">
 </h2>
-</div>
-
-<!--line-->
-<div id="line">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </div>
 
 <!--ABOUT-->
