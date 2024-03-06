@@ -38,7 +38,7 @@
 
 <!--ABOUT-->
 <div id="about" align="center">
-<img src="assets/img/profile.png" alt="profilepic" width="30%" height="30%">
+<img src="assets/img/avatar.jpg" alt="profilepic" width="30%" height="30%">
 <h2> ABOUT ME </h2>
 <h4> I studied Software Engineering at </h4>
 <img src="assets/img/um.png" alt="um" width="80" height="40" />
