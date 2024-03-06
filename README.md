@@ -82,7 +82,7 @@
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"  title="Trello" alt="Trello" width="70" height="40"/>&nbsp;<!--Done-->
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="VSCODE" alt="VSCODE" width="80" height="40"/>&nbsp;<!--Done-->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="HTML" width="70" height="40"/>&nbsp;<!--Done-->
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" title="Python" alt="Python" width="70" height="40"/>&nbsp;<!--Done-->
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" title="MySql" alt="Sql" width="80" height="40"/>&nbsp;<!--Done-->
   <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" title="Hackthebox" alt="box" width="80" height="40"/>&nbsp;<!--Done-->
   <h3></h3>
 </div>
