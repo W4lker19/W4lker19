@@ -78,17 +78,17 @@
 <!--tools-->
 <div id="skills" align="center">
   <h3> :hammer_and_wrench: Languages and Tools </h3>                                                                          
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" title="Python" alt="Python" width="60" height="40"/>&nbsp;<!--Done-->
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" title="Java" alt="Java" width="60" height="40"/>&nbsp;<!--Done-->
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" title="C" alt="C Lang" width="60" height="40"/>&nbsp;<!--Done-->
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" title="Ilustrator" alt="Ilustrator" width="60" height="40"/>&nbsp;<!--Done-->
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="Github" alt="Github" width="60" height="40"/>&nbsp;<!--Done-->
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" title="Slack" alt="Slack" width="40" height="60"/>&nbsp; <!--Done-->
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"  title="Trello" alt="Trello" width="60" height="40"/>&nbsp;<!--Done-->
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" title="VSCODE" alt="VSCODE" width="60" height="40"/>&nbsp;<!--Done-->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="HTML" width="60" height="40"/>&nbsp;<!--Done-->
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" title="Python" alt="Python" width="60" height="40"/>&nbsp;<!--Done-->
-  <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" title="Hackthebox" alt="box" width="60" height="40"/>&nbsp;<!--Done-->
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" title="Python" alt="Python" width="70" height="40"/>&nbsp;<!--Done-->
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" title="Java" alt="Java" width="70" height="40"/>&nbsp;<!--Done-->
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" title="C" alt="C Lang" width="70" height="40"/>&nbsp;<!--Done-->
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" title="Ilustrator" alt="Ilustrator" width="70" height="40"/>&nbsp;<!--Done-->
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="Github" alt="Github" width="70" height="40"/>&nbsp;<!--Done-->
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" title="Slack" alt="Slack" width="70" height="40"/>&nbsp; <!--Done-->
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"  title="Trello" alt="Trello" width="70" height="40"/>&nbsp;<!--Done-->
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" title="VSCODE" alt="VSCODE" width="70" height="40"/>&nbsp;<!--Done-->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="HTML" width="70" height="40"/>&nbsp;<!--Done-->
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" title="Python" alt="Python" width="70" height="40"/>&nbsp;<!--Done-->
+  <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" title="Hackthebox" alt="box" width="70" height="40"/>&nbsp;<!--Done-->
   <h3></h3>
 </div>
 
