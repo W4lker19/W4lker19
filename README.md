@@ -59,7 +59,7 @@
 <b>University of Minho.</b>
 <h4> Finished in 2024 with an average grade of 13 </h4>
 <h4> My Current OS is Arch Linux</h4>
-<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" title="OS" alt="ARCH" width="80" height="40"/>&nbsp;<!--Done-->
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" title="OS" alt="ARCH"/>&nbsp;<!--Done-->
 </div>
 <p>
   
