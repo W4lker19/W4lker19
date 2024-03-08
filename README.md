@@ -82,17 +82,6 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </div>
 
-<div id="spotify" align="center">
-<img src="assets/img/textanim-sxhJ6.gif" width="58%"/>
-  
-[![Spotify](https://novatorem-blue-xi.vercel.app/api/spotify)](https://open.spotify.com/user/melwwt1dl1y0m19x8k1c44eim)
-</div>
-
-<!--line-->
-<div id="line">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-</div>
-
 <div align="center">
   
 <div id="terminal" align="center">
