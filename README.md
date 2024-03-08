@@ -24,11 +24,6 @@
 
 ![](https://hit.yhype.me/github/profile?user_id=62023102)
 
-<!--line-->
-<div id="line">
-<img src="(https://i.gifer.com/Vp3L.gif)" height="40" width="100%">
-</div>
-
 <!--intro-->
 <div id = "intro "align="center">
 <h2> Hello There! I'm Leo!
