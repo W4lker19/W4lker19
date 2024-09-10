@@ -63,9 +63,10 @@
 </p>
 
 <!--line-->
-<div id="line" align = "center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+<div id="line" style="width: 100%; text-align: center;">
+  <img src="https://i.imgur.com/dBaSKWF.gif" style="width: 100%;" height="40">
 </div>
+
 
 <!--tools-->
 <div id="skills" align="center">
@@ -96,9 +97,10 @@
 </div>
 
 <!--line-->
-<div id="line" align = "center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+<div id="line" style="width: 100%; text-align: center;">
+  <img src="https://i.imgur.com/dBaSKWF.gif" style="width: 100%;" height="40">
 </div>
+
 
 <div align="center">
   
