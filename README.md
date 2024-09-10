@@ -57,13 +57,10 @@
 <p>
   
 </p>
-
-<!--line-->
-<div id="line" align = "center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="80%" width="100%">
-</div>
-
-
+<h2>  </h2>
+<p>
+  
+</p>
 <!--tools-->
 <div id="skills" align="center">
   <h3> 
@@ -92,10 +89,13 @@
   <h3></h3>
 </div>
 
-<!--line-->
-<div id="line" align = "center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-</div>
+<p>
+  
+</p>
+<h2>  </h2>
+<p>
+  
+</p>
 
 
 <div align="center">
