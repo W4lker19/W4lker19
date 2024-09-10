@@ -37,26 +37,23 @@
 
 <!--ABOUT-->
 <div id="about" align="center">
-  
-<img src="assets/img/photo.jpg" alt="profilepic" width="30%" height="30%">
-<h2> ABOUT ME </h2>
-<h4> I studied Software Engineering at </h4>
-<img src="assets/img/um.png" alt="um" width="80" height="40" />
-<div id="Uni" align="center">
-<b>University of Minho.</b>
-<h4> Finished in 2024 with an average grade of 13 </h4>
+  <img src="assets/img/photo.jpg" alt="profilepic" width="30%" height="30%">
+  <h2> ABOUT ME </h2>
+  <h4> I studied Software Engineering at </h4>
+  <img src="assets/img/um.png" alt="um" width="80" height="40" />
+    <div id="Uni" align="center">
+    <b>University of Minho.</b>
+    <h4> Finished in 2024 with an average grade of 13 </h4>
+    </div>
+      <div id="fcup" align="center">
+      <h4> Starting my Master Degree in CyberSecurity at </h4>
+      <img src="assets/img/fcup.png" alt="fcup" width="80" height="40"/>
+      </div>
+        <div id ="os">
+        <h4> My Current OS is </h4>
+        <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" title="OS" alt="Fedora"/>&nbsp;
+        </div>
 </div>
-<div id="fcup" align="center">
-<h4> Starting my Master Degree in CyberSecurity at </h4>
-<img src="assets/img/fcup.png" alt="fcup" width="80" height="40"/>
-</div>
-<div id ="os">
-<h4> My Current OS is </h4>
-<img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" title="OS" alt="Fedora"/>&nbsp;
-</div>
-</div>
-</div>
-
 <p>
   
 </p>
