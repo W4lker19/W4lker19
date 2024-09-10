@@ -60,7 +60,7 @@
 
 <!--line-->
 <!--<div id="line" align = "center">-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="100%" width="100%">
 <!--</div>-->
 
 
