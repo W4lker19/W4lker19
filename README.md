@@ -58,6 +58,11 @@
 <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" title="OS" alt="Fedora"/>&nbsp;
 </div>
 
+<div>
+  <p>
+    <!--Empty to leave a space-->
+  </p>
+</div>
 
 
 <!--line-->
