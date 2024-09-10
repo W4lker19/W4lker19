@@ -53,9 +53,9 @@
 <h4> My Current OS is </h4>
 <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" title="OS" alt="Fedora"/>&nbsp;<!--Done-->
 </div>
-<p>
-  
-</p>
+
+
+
 <!--line-->
 <div id="line">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
