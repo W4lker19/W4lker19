@@ -64,8 +64,8 @@
 </p>
 
 <!--line-->
-<div id="line" style="width: 100%; text-align: center;">
-  <img src="https://i.imgur.com/dBaSKWF.gif" style="width: 100%;" height="40">
+<div id="line" align = "center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </div>
 
 
@@ -98,8 +98,8 @@
 </div>
 
 <!--line-->
-<div id="line" style="width: 100%; text-align: center;">
-  <img src="https://i.imgur.com/dBaSKWF.gif" style="width: 100%;" height="40">
+<div id="line" align = "center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </div>
 
 
