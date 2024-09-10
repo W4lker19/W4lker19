@@ -44,6 +44,12 @@
 <div id="Uni" align="center">
 <b>University of Minho.</b>
 <h4> Finished in 2024 with an average grade of 13 </h4>
+</div>
+<div id="fcup" align="center">
+<h4> Starting my Master Degree at </h4>
+<img src="assets/img/fcup.svg" alt="fcup" width="80" height="40"/>
+</div>
+  
 <h4> My Current OS is </h4>
 <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" title="OS" alt="Fedora"/>&nbsp;<!--Done-->
 </div>
