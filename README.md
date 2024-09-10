@@ -47,7 +47,7 @@
 </div>
 <div id="fcup" align="center">
 <h4> Starting my Master Degree at </h4>
-<img src="assets/img/fcup.svg" alt="fcup" width="80" height="40"/>
+<img src="assets/img/fcup.png" alt="fcup" width="80" height="40"/>
 </div>
   
 <h4> My Current OS is </h4>
