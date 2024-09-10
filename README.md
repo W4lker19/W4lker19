@@ -49,7 +49,7 @@
 </div>
   
 <div id="fcup" align="center">
-<h4> Starting my Master Degree at </h4>
+<h4> Starting my Master Degree in CyberSecurity at </h4>
 <img src="assets/img/fcup.png" alt="fcup" width="80" height="40"/>
 </div>
   
