@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord Badge"/>
   </a>
    <a href="https://ko-fi.com/walker19">
-    <img src="https://img.shields.io/badge/Kofi-F16061.svg?logo=ko-fi&logoColor=white" alt="KOFI Badge"/>
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="KOFI Badge"/>
   </a>
 
 </div>
