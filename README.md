@@ -59,9 +59,9 @@
 </p>
 
 <!--line-->
-<!--<div id="line" align = "center">-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="100%" width="100%">
-<!--</div>-->
+<div id="line" align = "center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="80%" width="100%">
+</div>
 
 
 <!--tools-->
