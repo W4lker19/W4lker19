@@ -44,7 +44,7 @@
     </div>
       <div id="fcup" align="center">
       <h4> Starting my Master Degree in CyberSecurity at </h4>
-      <img src="assets/img/fcup_banner.png" alt="fcup" width="50%" height="50%"/>
+      <img src="assets/img/fcup_banner.png" alt="fcup" width="30%" height="30%"/>
       </div>
 </div>
 <p>
