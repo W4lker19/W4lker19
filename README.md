@@ -89,13 +89,3 @@
 <p>
   
 </p>
-
-
-<div align="center">
-  
-<div id="terminal" align="center">
-<img src="assets/img/train.gif" alt="terminal" width="100%" height="30%">
-</div>
-  
-</div>
-
