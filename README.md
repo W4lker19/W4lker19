@@ -64,9 +64,7 @@
   <tr>
     <td align="center" colspan="2">
       <strong>🎵 Currently Playing:</strong><br/><br/>
-      <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=melwwt1dl1y0m19x8k1c44eim&redirect=true">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=melwwt1dl1y0m19x8k1c44eim&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color_cover=true&bar_color=f85d7f" alt="Current Spotify Song"/>
-      </a>
+      [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=melwwt1dl1y0m19x8k1c44eim&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color_cover=false&bar_color=f85d7f)](https://spotify-github-profile.kittinanx.com/api/view?uid=melwwt1dl1y0m19x8k1c44eim&redirect=true)
     </td>
   </tr>
 </table>
