@@ -72,7 +72,7 @@
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://capsule-render.vercel.app/api?type=shark&color=f85d7f&height=50&section=divider&animation=blinking"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=f85d7f&height=50&section=divider&animation=fadeIn"/>
 
 <!--Enhanced education section-->
 <div align="center">
