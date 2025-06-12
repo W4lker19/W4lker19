@@ -64,7 +64,7 @@
   <tr>
     <td align="center" colspan="2">
       <strong>🎵 Currently Playing:</strong><br/><br/>
-      <img src="https://spotify-github-profile.vercel.app/api/view?uid=melwwt1dl1y0m19x8k1c44eim&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f" alt="Current Spotify Song"/>
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=melwwt1dl1y0m19x8k1c44eim&cover_image=true&theme=compact&show_offline=true&background_color=121212" alt="Current Spotify Song"/>
     </td>
   </tr>
 </table>
