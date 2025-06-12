@@ -80,12 +80,6 @@
  <img src="https://img.shields.io/badge/Penetration_Testing-darkgreen?style=flat&logo=kali-linux&logoColor=white"/>
  <img src="https://img.shields.io/badge/Cloud_Security-blue?style=flat&logo=icloud&logoColor=white"/>
  
- ### 💬 **Ask Me About:**
- <img src="https://img.shields.io/badge/Software_Engineering-4A90E2?style=flat&logo=code&logoColor=white"/>
- <img src="https://img.shields.io/badge/Cybersecurity-FF6B6B?style=flat&logo=security&logoColor=white"/>
- <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
- <img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue"/>
- 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
