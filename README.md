@@ -1,7 +1,7 @@
 <!--Enhanced aesthetic header-->
 <div align="center">
 
-# 🌟 Hey there! I'm **Leonardo** 🌟
+# Hey there! I'm **Leonardo** 
 ### 🔐 **Cybersecurity Student** | 💻 **Software Engineer** | 🚀 **Tech Enthusiast**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Welcome+to+my+GitHub!;Turning+ideas+into+code;Always+learning+something+new!" alt="Typing SVG" />
