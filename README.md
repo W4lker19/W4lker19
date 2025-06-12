@@ -48,27 +48,29 @@
  
  ## 🎯 **About Me**
  
- <table>
-   <tr>
-     <td align="center" width="50%">
-       <img src="https://img.shields.io/badge/🌍_Location-Portugal_🇵🇹-blue?style=for-the-badge"/>
-       <br/><br/>
-       <img src="https://img.shields.io/badge/🎓_Current_Focus-Cybersecurity_&_Software_Development-purple?style=flat-square"/>
-     </td>
-     <td align="center" width="50%">
-       <img src="https://img.shields.io/badge/☕_Fun_Fact-Coffee_Powered_Developer-brown?style=for-the-badge"/>
-       <br/><br/>
-       <img src="https://img.shields.io/badge/💡_Motto-Debug_with_Coffee,_Solve_with_Curiosity-orange?style=flat-square"/>
-     </td>
-   </tr>
-   <td align="center" width="100%">
-     <div align="center">
-  ### 🎵 **Currently Jamming To:**
-  
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=melwwt1dl1y0m19x8k1c44eim&count=1&unique=true" alt="Current Spotify Song"/>
-</div>
- </table>
-</div>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/🌍_Location-Portugal_🇵🇹-blue?style=for-the-badge"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/🎓_Current_Focus-Cybersecurity_&_Software_Development-purple?style=flat-square"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/☕_Fun_Fact-Coffee_Powered_Developer-brown?style=for-the-badge"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/💡_Motto-Debug_with_Coffee,_Solve_with_Curiosity-orange?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://img.shields.io/badge/🎵_Music_Vibe-Always_Coding_with_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+      <br/><br/>
+      <a href="https://open.spotify.com/user/melwwt1dl1y0m19x8k1c44eim">
+        <img src="https://img.shields.io/badge/🎧_Check_My_Playlists-1DB954?style=flat-square&logo=spotify&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
