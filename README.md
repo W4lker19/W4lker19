@@ -63,11 +63,8 @@
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://img.shields.io/badge/🎵_Music_Vibe-Always_Coding_with_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
-      <br/><br/>
-      <a href="https://open.spotify.com/user/melwwt1dl1y0m19x8k1c44eim">
-        <img src="https://img.shields.io/badge/🎧_Check_My_Playlists-1DB954?style=flat-square&logo=spotify&logoColor=white"/>
-      </a>
+      <strong>🎵 Currently Playing:</strong><br/><br/>
+      <img src="https://spotify-github-profile.vercel.app/api/view?uid=melwwt1dl1y0m19x8k1c44eim&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f" alt="Current Spotify Song"/>
     </td>
   </tr>
 </table>
