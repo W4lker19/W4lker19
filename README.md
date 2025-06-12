@@ -14,7 +14,7 @@
 
 <!--Animated cat with better styling-->
 <div align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300" style="border-radius: 15px;"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODY5em1seXVoanR3ZzJ0eWRpa3FtdWF6ZDdqbjVsbmdhYTZqeXlqciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BemKqR9RDK4V2/giphy.gif" width="300" style="border-radius: 15px;"/>
 </div>
 
 <br/>
