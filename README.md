@@ -4,8 +4,7 @@
 # Hey there! I'm **Leonardo** 
 ### 🔐 **Cybersecurity Student** | 💻 **Software Engineer** | 🚀 **Tech Enthusiast**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&width=650&height=100&lines=Welcome+to+the+matrix...;Penetrating+systems+with+code;Always+exploiting+vulnerabilities!" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=650&height=100&lines=Welcome+to+my+digital+realm!;Penetrating+systems+with+code;Always+learning%2C+always+hacking!" alt="Typing SVG" />
 ![](https://hit.yhype.me/github/profile?user_id=62023102)
 
 ---
