@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" alt="Discord"/>
   </a>
 
-  <a href="https://www.instagram.com/da.vinki2510">
+  <a href="https://www.instagram.com/W4lker19">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
   </a>
   <a href="https://open.spotify.com/user/melwwt1dl1y0m19x8k1c44eim?si=21e5df35ce034206&nd=1">
@@ -53,20 +53,39 @@
 <br/>
 
 <!--Improved intro section-->
+<!--Improved intro section-->
 <div align="center">
-  
-  ## 🎯 **About Me**
-  
-  ```typescript
-  const leonardo = {
-    location: "Portugal 🇵🇹",
-    currentFocus: "Cybersecurity & Software Development",
-    learning: ["Advanced Security Concepts", "Penetration Testing", "Cloud Security"],
-    askMeAbout: ["Software Engineering", "Cybersecurity", "Java", "Python"],
-    funFact: "I debug with coffee and solve problems with curiosity! ☕"
-  };
-  ```
-  
+ 
+ ## 🎯 **About Me**
+ 
+ <table>
+   <tr>
+     <td align="center" width="50%">
+       <img src="https://img.shields.io/badge/🌍_Location-Portugal_🇵🇹-blue?style=for-the-badge"/>
+       <br/><br/>
+       <img src="https://img.shields.io/badge/🎓_Current_Focus-Cybersecurity_&_Software_Development-purple?style=flat-square"/>
+     </td>
+     <td align="center" width="50%">
+       <img src="https://img.shields.io/badge/☕_Fun_Fact-Coffee_Powered_Developer-brown?style=for-the-badge"/>
+       <br/><br/>
+       <img src="https://img.shields.io/badge/💡_Motto-Debug_with_Coffee,_Solve_with_Curiosity-orange?style=flat-square"/>
+     </td>
+   </tr>
+ </table>
+ 
+ <br/>
+ 
+ ### 🌱 **Currently Learning:**
+ <img src="https://img.shields.io/badge/Advanced_Security_Concepts-red?style=flat&logo=shield&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Penetration_Testing-darkgreen?style=flat&logo=kali-linux&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Cloud_Security-blue?style=flat&logo=icloud&logoColor=white"/>
+ 
+ ### 💬 **Ask Me About:**
+ <img src="https://img.shields.io/badge/Software_Engineering-4A90E2?style=flat&logo=code&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Cybersecurity-FF6B6B?style=flat&logo=security&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue"/>
+ 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -158,35 +177,38 @@
 
 <!--Current focus section-->
 <div align="center">
-  
-  ## 🚀 **What I'm Currently Working On**
-  
-  ```python
-  class CurrentFocus:
-      def __init__(self):
-          self.learning = [
-              "🔐 Advanced Cybersecurity Techniques",
-              "🐍 Python for Security Automation", 
-              "☁️ Cloud Security Best Practices",
-              "🕵️ Ethical Hacking & Penetration Testing"
-          ]
-          
-          self.building = [
-              "🛡️ Security Tools & Scripts",
-              "📚 Personal Learning Projects",
-              "🔍 Vulnerability Assessment Tools"
-          ]
-          
-          self.goals_2025 = [
-              "🎯 Complete Master's Degree",
-              "📜 Get Security Certifications", 
-              "💼 Land First Cybersecurity Role",
-              "🌟 Contribute to Open Source Security Projects"
-          ]
-  
-  current_me = CurrentFocus()
-  ```
-  
+ 
+ ## 🚀 **What I'm Currently Working On**
+ 
+ <table>
+   <tr>
+     <td align="center" width="33%">
+       <img src="https://img.shields.io/badge/🎓_Currently_Learning-4A90E2?style=for-the-badge&logoColor=white"/>
+       <br/><br/>
+       🔐 **Advanced Cybersecurity**<br/>
+       🐍 **Python for Security**<br/>
+       ☁️ **Cloud Security Practices**<br/>
+       🕵️ **Ethical Hacking & Pentesting**
+     </td>
+     <td align="center" width="33%">
+       <img src="https://img.shields.io/badge/🛠️_Currently_Building-50C878?style=for-the-badge&logoColor=white"/>
+       <br/><br/>
+       🛡️ **Security Tools & Scripts**<br/>
+       📚 **Personal Learning Projects**<br/>
+       🔍 **Vulnerability Assessment Tools**<br/>
+       💻 **Automation Scripts**
+     </td>
+     <td align="center" width="33%">
+       <img src="https://img.shields.io/badge/🎯_2025_Goals-FF6B6B?style=for-the-badge&logoColor=white"/>
+       <br/><br/>
+       🎓 **Complete Master's Degree**<br/>
+       📜 **Get Security Certifications**<br/>
+       💼 **Land Cybersecurity Role**<br/>
+       🌟 **Contribute to Open Source**
+     </td>
+   </tr>
+ </table>
+ 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
