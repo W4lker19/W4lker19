@@ -177,18 +177,18 @@
      <td align="center" width="33%">
        <img src="https://img.shields.io/badge/🛠️_Currently_Building-50C878?style=for-the-badge&logoColor=white"/>
        <br/><br/>
-       🛡️ **Security Tools & Scripts**<br/>
-       📚 **Personal Learning Projects**<br/>
-       🔍 **Vulnerability Assessment Tools**<br/>
-       💻 **Automation Scripts**
+       🛡️ <strong>Security Tools & Scripts</strong><br/>
+       📚 <strong>Personal Learning Projects</strong><br/>
+       🔍 <strong>Vulnerability Assessment Tools</strong><br/>
+       💻 <strong>Automation Scripts</strong>
      </td>
      <td align="center" width="33%">
        <img src="https://img.shields.io/badge/🎯_2025_Goals-FF6B6B?style=for-the-badge&logoColor=white"/>
        <br/><br/>
-       🎓 **Complete Master's Degree**<br/>
-       📜 **Get Security Certifications**<br/>
-       💼 **Land Cybersecurity Role**<br/>
-       🌟 **Contribute to Open Source**
+       🎓 <strong>Complete Master's Degree</strong><br/>
+       📜 <strong>Get Security Certifications</strong><br/>
+       💼 <strong>Land Cybersecurity Role</strong><br/>
+       🌟 <strong>Contribute to Open Source</strong>
      </td>
    </tr>
  </table>
