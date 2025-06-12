@@ -225,7 +225,7 @@
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn"/>
   
-  **⭐ From [Leonardo Araújo Freitas](https://github.com/W4lker19) with ❤️**
+  **⭐ From [W4lker](https://github.com/W4lker19) with ❤️**
   
   <img src="https://komarev.com/ghpvc/?username=W4lker19&style=for-the-badge&color=F85D7F"/>
   
