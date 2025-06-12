@@ -61,15 +61,13 @@
        <img src="https://img.shields.io/badge/💡_Motto-Debug_with_Coffee,_Solve_with_Curiosity-orange?style=flat-square"/>
      </td>
    </tr>
+   <td align="center" width="100%">
+     <div align="center">
+  ### 🎵 **Currently Jamming To:**
+  
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=melwwt1dl1y0m19x8k1c44eim&count=1&unique=true" alt="Current Spotify Song"/>
+</div>
  </table>
- 
- <br/>
- 
- ### 🌱 **Currently Learning:**
- <img src="https://img.shields.io/badge/Advanced_Security_Concepts-red?style=flat&logo=shield&logoColor=white"/>
- <img src="https://img.shields.io/badge/Penetration_Testing-darkgreen?style=flat&logo=kali-linux&logoColor=white"/>
- <img src="https://img.shields.io/badge/Cloud_Security-blue?style=flat&logo=icloud&logoColor=white"/>
- 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
