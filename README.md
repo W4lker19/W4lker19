@@ -19,40 +19,30 @@
 
 <br/>
 
-<!--Enhanced badges with better organization-->
 <div align="center">
-  
-  ### 🌐 **Connect with me:**
-  
-  <a href="https://www.linkedin.com/in/leonardo-ara%C3%BAjo-freitas-734732228/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:leonardo1924miei@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail"/>
-  </a>
-  <a href="https://discord.com/users/624603785041281044">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" alt="Discord"/>
-  </a>
-
-  <a href="https://www.instagram.com/W4lker19">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
-  </a>
-  <a href="https://open.spotify.com/user/melwwt1dl1y0m19x8k1c44eim?si=21e5df35ce034206&nd=1">
-    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=1DB954" alt="Spotify"/>
-  </a>
-  <a href="https://buymeacoffee.com/walker19">
-    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee"/>
-  </a>
-
-  <br/><br/>
-  
-  ![](https://hit.yhype.me/github/profile?user_id=62023102)
-  
+ 
+ ### 🌐 **Connect with me:**
+ 
+ <a href="https://www.linkedin.com/in/leonardo-ara%C3%BAjo-freitas-734732228/">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+ </a>
+ <a href="mailto:leonardo1924miei@gmail.com">
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+ </a>
+ <a href="https://discord.com/users/624603785041281044">
+   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+ </a>
+ <a href="https://www.instagram.com/W4lker19">
+   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+ </a>
+ <a href="https://open.spotify.com/user/melwwt1dl1y0m19x8k1c44eim?si=21e5df35ce034206&nd=1">
+   <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+ </a>
+ <a href="https://buymeacoffee.com/walker19">
+   <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+ </a> 
 </div>
 
-<br/>
-
-<!--Improved intro section-->
 <!--Improved intro section-->
 <div align="center">
  
