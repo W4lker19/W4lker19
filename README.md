@@ -71,7 +71,6 @@
   </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:f85d7f,50:ff69b4,100:f85d7f&height=5&width=100&section=divider&animation=blinking"/>
 
 <!--Enhanced education section-->
@@ -102,7 +101,7 @@
   </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:f85d7f,50:ff69b4,100:f85d7f&height=5&width=100&section=divider&animation=blinking"/>
 
 <!--Enhanced skills section with better organization-->
 <div align="center">
@@ -135,7 +134,7 @@
   
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:f85d7f,50:ff69b4,100:f85d7f&height=5&width=100&section=divider&animation=blinking"/>
 
 <!--GitHub stats section-->
 <div align="center">
@@ -157,7 +156,7 @@
   
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:f85d7f,50:ff69b4,100:f85d7f&height=5&width=100&section=divider&animation=blinking"/>
 
 <!--Current focus section-->
 <div align="center">
@@ -195,7 +194,7 @@
  
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:f85d7f,50:ff69b4,100:f85d7f&height=5&width=100&section=divider&animation=blinking"/>
 
 <!--Fun facts section-->
 <div align="center">
@@ -211,7 +210,7 @@
   
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:f85d7f,50:ff69b4,100:f85d7f&height=5&width=100&section=divider&animation=blinking"/>
 
 <!--Enhanced footer-->
 <div align="center">
