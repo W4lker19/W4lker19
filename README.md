@@ -72,6 +72,7 @@
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f85d7f,100:764ba2&height=60&section=divider"/>
 
 <!--Enhanced education section-->
 <div align="center">
