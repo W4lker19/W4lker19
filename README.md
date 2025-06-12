@@ -169,10 +169,10 @@
      <td align="center" width="33%">
        <img src="https://img.shields.io/badge/🎓_Currently_Learning-4A90E2?style=for-the-badge&logoColor=white"/>
        <br/><br/>
-       🔐 **Advanced Cybersecurity**<br/>
-       🐍 **Python for Security**<br/>
-       ☁️ **Cloud Security Practices**<br/>
-       🕵️ **Ethical Hacking & Pentesting**
+       🔐 <strong>Advanced Cybersecurity</strong><br/>
+       🐍 <strong>Python for Security</strong><br/>
+       ☁️ <strong>Cloud Security Practices</strong><br/>
+       🕵️ <strong>Ethical Hacking & Pentesting</strong>
      </td>
      <td align="center" width="33%">
        <img src="https://img.shields.io/badge/🛠️_Currently_Building-50C878?style=for-the-badge&logoColor=white"/>
