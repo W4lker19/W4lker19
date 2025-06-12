@@ -64,7 +64,7 @@
   <tr>
     <td align="center" colspan="2">
       <strong>🎵 Currently Playing:</strong><br/><br/>
-      <img src="[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=melwwt1dl1y0m19x8k1c44eim&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=melwwt1dl1y0m19x8k1c44eim&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color_cover=true&bar_color=f85d7f)]"/>
+      <img src="[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=melwwt1dl1y0m19x8k1c44eim&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=melwwt1dl1y0m19x8k1c44eim&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color_cover=true&bar_color=f85d7f)]]"/>
     </td>
   </tr>
 </table>
