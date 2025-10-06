@@ -141,11 +141,6 @@
   
   ## 📊 **GitHub Analytics**
   
-  <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=W4lker19&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&icon_color=F85D7F"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=W4lker19&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
-  </div>
-  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=W4lker19&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph"/>
   
 </div>
