@@ -1,4 +1,3 @@
-<!-- Enhanced aesthetic header -->
 <div align="center">
 
 # Hey there! I'm **Leonardo**
@@ -21,24 +20,12 @@
 
 ### 🌐 **Connect with me:**
 
-<a href="https://www.linkedin.com/in/leonardo-ara%C3%BAjo-freitas-734732228/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:leonardo1924miei@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://discord.com/users/624603785041281044">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</a>
-<a href="https://www.instagram.com/W4lker19">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://open.spotify.com/user/melwwt1dl1y0m19x8k1c44eim">
-  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
-</a>
-<a href="https://buymeacoffee.com/walker19">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-</a>
+<a href="https://www.linkedin.com/in/leonardo-ara%C3%BAjo-freitas-734732228/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:leonardo1924miei@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://discord.com/users/624603785041281044"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+<a href="https://www.instagram.com/W4lker19"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://open.spotify.com/user/melwwt1dl1y0m19x8k1c44eim"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a>
+<a href="https://buymeacoffee.com/walker19"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/></a>
 
 </div>
 
@@ -98,32 +85,24 @@ harder to break. Usually with a coffee within reach.
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/W4lker19/SAHC_Proj">
-        <img src="https://img.shields.io/badge/🔒_Trusted_Hardware_Security-1a1a2e?style=for-the-badge"/>
-      </a>
+      <a href="https://github.com/W4lker19/SAHC_Proj"><img src="https://img.shields.io/badge/🔒_Trusted_Hardware_Security-1a1a2e?style=for-the-badge"/></a>
       <br/>Coursework on building software that runs on trusted hardware.
       <br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/W4lker19/SSD_Proj">
-        <img src="https://img.shields.io/badge/🛡️_Systems_&_Data_Security-1a1a2e?style=for-the-badge"/>
-      </a>
+      <a href="https://github.com/W4lker19/SSD_Proj"><img src="https://img.shields.io/badge/🛡️_Systems_&_Data_Security-1a1a2e?style=for-the-badge"/></a>
       <br/>A project on keeping systems and their data secure.
       <br/><img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/W4lker19/Critpo-A">
-        <img src="https://img.shields.io/badge/🔑_Cryptography-1a1a2e?style=for-the-badge"/>
-      </a>
+      <a href="https://github.com/W4lker19/Critpo-A"><img src="https://img.shields.io/badge/🔑_Cryptography-1a1a2e?style=for-the-badge"/></a>
       <br/>My work from an applied cryptography course.
       <br/><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/W4lker19/TPAS">
-        <img src="https://img.shields.io/badge/🧪_Security_Labs_&_Scripts-1a1a2e?style=for-the-badge"/>
-      </a>
+      <a href="https://github.com/W4lker19/TPAS"><img src="https://img.shields.io/badge/🧪_Security_Labs_&_Scripts-1a1a2e?style=for-the-badge"/></a>
       <br/>Security lab write-ups and a few scripts I wrote along the way.
       <br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
     </td>
