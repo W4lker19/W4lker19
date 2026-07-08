@@ -4,7 +4,7 @@
 # Hey there! I'm **Leonardo**
 ### 🔐 **Cybersecurity Student** | 💻 **Software Engineer** | 🚀 **Tech Enthusiast**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=f85d7f&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Welcome+to+my+GitHub!;Turning+ideas+into+code;Always+learning+something+new!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=f85d7f&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Hey,+I'm+Leonardo!;I+study+security+and+build+things;Currently+doing+my+master's" alt="Typing SVG" />
 
 ---
 
@@ -47,9 +47,9 @@
 
 ## 🎯 **About Me**
 
-I'm a Portugal-based 🇵🇹 cybersecurity master's student and software engineer who enjoys
-breaking things to understand how they work — then building tools to make them safer.
-Coffee-powered, curiosity-driven, and always shipping something new.
+I'm a cybersecurity master's student and software engineer based in Portugal 🇵🇹.
+I like pulling things apart to see how they work, then writing code to make them
+harder to break. Usually with a coffee within reach.
 
 <strong>🎵 Currently Playing:</strong><br/><br/>
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=melwwt1dl1y0m19x8k1c44eim&redirect=true">
@@ -71,7 +71,7 @@ Coffee-powered, curiosity-driven, and always shipping something new.
   <tr>
     <td align="center" width="50%">
       <img src="assets/img/fcup_banner.png" alt="FCUP" width="120" height="60"/>
-      <h3>🔐 Master's Degree — In Progress</h3>
+      <h3>🔐 Master's Degree (In Progress)</h3>
       <strong>Cybersecurity</strong><br/>
       <em>Faculty of Sciences, University of Porto</em><br/>
       <img src="https://img.shields.io/badge/Status-Currently_Studying-blue?style=flat-square&logo=bookstack&logoColor=white"/>
@@ -79,7 +79,7 @@ Coffee-powered, curiosity-driven, and always shipping something new.
     </td>
     <td align="center" width="50%">
       <img src="assets/img/um.png" alt="University of Minho" width="80" height="40" />
-      <h3>🎓 Bachelor's Degree — Complete</h3>
+      <h3>🎓 Bachelor's Degree (Complete)</h3>
       <strong>Software Engineering</strong><br/>
       <em>University of Minho</em><br/>
       <img src="https://img.shields.io/badge/Status-Graduated-success?style=flat-square&logo=academia&logoColor=white"/>
@@ -101,14 +101,14 @@ Coffee-powered, curiosity-driven, and always shipping something new.
       <a href="https://github.com/W4lker19/SAHC_Proj">
         <img src="https://img.shields.io/badge/🔒_Trusted_Hardware_Security-1a1a2e?style=for-the-badge"/>
       </a>
-      <br/>Coursework in trusted / secure hardware applications.
+      <br/>Coursework on building software that runs on trusted hardware.
       <br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/W4lker19/SSD_Proj">
         <img src="https://img.shields.io/badge/🛡️_Systems_&_Data_Security-1a1a2e?style=for-the-badge"/>
       </a>
-      <br/>Secure systems &amp; data-protection project.
+      <br/>A project on keeping systems and their data secure.
       <br/><img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
     </td>
   </tr>
@@ -117,20 +117,20 @@ Coffee-powered, curiosity-driven, and always shipping something new.
       <a href="https://github.com/W4lker19/Critpo-A">
         <img src="https://img.shields.io/badge/🔑_Cryptography-1a1a2e?style=for-the-badge"/>
       </a>
-      <br/>Applied cryptography assignments &amp; experiments.
+      <br/>My work from an applied cryptography course.
       <br/><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/W4lker19/TPAS">
         <img src="https://img.shields.io/badge/🧪_Security_Labs_&_Scripts-1a1a2e?style=for-the-badge"/>
       </a>
-      <br/>Hands-on security labs and automation scripts.
+      <br/>Security lab write-ups and a few scripts I wrote along the way.
       <br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
     </td>
   </tr>
 </table>
 
-<sub>➡️ These are pinned on my profile — check the pins above for the highlights.</sub>
+<sub>Most of these are pinned above if you want a closer look.</sub>
 
 </div>
 
@@ -174,11 +174,6 @@ Coffee-powered, curiosity-driven, and always shipping something new.
 <div align="center">
 
 ## 📊 **GitHub Analytics**
-
-<img src="https://github-readme-stats.vercel.app/api?username=W4lker19&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W4lker19&layout=compact&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" height="165" alt="Top Languages"/>
-
-<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=W4lker19&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 
@@ -227,14 +222,14 @@ Coffee-powered, curiosity-driven, and always shipping something new.
 <!-- Fun facts -->
 <div align="center">
 
-## 🎯 **Random Facts About Me**
+## 🎯 **A Few Things About Me**
 
-🎵 **Music Addict** → Always coding with my favorite playlists on Spotify!
-☕ **Coffee Powered** → Late-night coding sessions fueled by espresso
-🎮 **Gaming Enthusiast** → Love challenging myself in games and CTFs
-🌍 **Portugal Based** → Open to remote opportunities worldwide
-📚 **Lifelong Learner** → Always curious about new technologies
-🔧 **Problem Solver** → I enjoy debugging almost as much as creating!
+🎵 There's almost always a Spotify playlist running while I code.<br/>
+☕ Most of my best work happens late at night, fueled by espresso.<br/>
+🎮 I play games to switch off, and CTFs when I want the opposite.<br/>
+🌍 Based in Portugal, and happy working remotely.<br/>
+📚 I pick up new tech mostly out of plain curiosity.<br/>
+🔧 I enjoy debugging almost as much as building the thing in the first place.
 
 </div>
 
@@ -245,7 +240,7 @@ Coffee-powered, curiosity-driven, and always shipping something new.
 
 ## 💬 **Let's Connect & Collaborate!**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=Always+open+to+interesting+conversations!;Let's+build+something+amazing+together!;Feel+free+to+reach+out+anytime!" alt="Footer Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=Always+up+for+a+good+conversation;Open+to+work,+collabs,+or+questions;Just+send+me+a+message" alt="Footer Typing SVG" />
 
 ### 📫 **How to reach me:**
 
